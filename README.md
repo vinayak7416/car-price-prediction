@@ -20,7 +20,7 @@ Owner
 
 I have used the RandomForestRegressor to solve this ML problem.
 Credit: www.kaggle.com
-This project is a Machine Learning based Web Application. It can detect whether the Car Price of Yours. This web application was diployed in Amazon Web Services(AWS). You can view the app here (http://carpriceprediction-env-1.eba-k8asyuv3.us-east-1.elasticbeanstalk.com/)
+This project is a Machine Learning based Web Application. It can detect whether the Car Price of Yours. This web application was diployed in Amazon Web Services(AWS).
 
 Car Valuation:India:
 GIF
